@@ -71,8 +71,35 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
    git clone https://github.com/tchingala18/MEIDS.git
 
 2. Instale as dependências:
+   
    pip install pandas numpy scikit-learn matplotlib seaborn
-3. Execute o script:
-   python main.py
+4. Execute o script:
+   
    python main.py
    
+   python Exame_nacional_predição.py
+
+
+📚 Aplicações Educacionais
+Este tipo de análise pode ajudar instituições de ensino a:
+- Identificar alunos em risco de reprovação precocemente
+- Implementar apoio pedagógico direcionado
+- Tomar decisões baseadas em dados
+
+🙌 Autores
+Estudante do curso de Mestrado em Ensino da Informática
+| Nome | email|
+|--------|-------------------|
+|Alberto Jamba Kanduco|242111@isced-huila.edu.ao|
+|Ana Benguela Dange Bento|m242054@isced-huila.edu.ao|
+|Carlitos Sabino Tchingãla|m242051@isced-huila.edu.ao|
+|Deolinda Nandjala Ketete|m242059@isced-huila.edu.ao|
+|Eunice Domingas Helena|m242064@isced-huila.edu.ao|
+|Marcolino Ernesto Chiungue do Amaral|m242072@isced-huila.edu.ao|
+|Victor Mamona Dange|m242110@isced-huila.edu.ao|
+
+📍 **Angola**
+
+🎓 Instituição: **Instituto Superior de Ciências de Educação**
+
+<img width="150" height="150" alt="logo" src="https://github.com/user-attachments/assets/e9afa758-bd4a-4f92-91f2-32422f694fdd" />
