@@ -50,12 +50,15 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 | Dispersão | Histograma |
 |---------|----------|
-| ![Dispersão](figs/scatter.png) | ![Histograma](<img width="713" height="425" alt="Figure 2025-10-22 145723 (1)" src="https://github.com/user-attachments/assets/826778ab-157b-47c8-86d1-6f487c582a09" />
+| !<img width="671" height="425" alt="Figure 2025-10-22 145723 (0)" src="https://github.com/user-attachments/assets/43a4e593-8cbd-4a9b-9044-9935197e0fd7" />
+ |(<img width="713" height="425" alt="Figure 2025-10-22 145723 (1)" src="https://github.com/user-attachments/assets/826778ab-157b-47c8-86d1-6f487c582a09" />
 ) |
 
 | Boxplot | Matriz de Confusão |
 |--------|-------------------|
-| ![Boxplot](figs/boxplot.png) | ![Confusion Matrix](figs/confusion_matrix.png) |
+| !<img width="713" height="425" alt="Figure 2025-10-22 145723 (2)" src="https://github.com/user-attachments/assets/6ecf1bc2-17dd-43be-a463-2d19ab487c1a" />
+ | !<img width="528" height="425" alt="Figure 2025-10-22 145723 (3)" src="https://github.com/user-attachments/assets/48f61f88-9901-42f3-a81f-4c05b75c6e94" />
+ |
 
 > *(Imagens ilustrativas — geradas ao executar o código)*
 
