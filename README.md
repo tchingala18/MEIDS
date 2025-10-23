@@ -69,4 +69,10 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 1. Clone este repositório:
    ```bash
    git clone https://github.com/tchingala18/MEIDS.git
+
+2. Instale as dependências:
+   pip install pandas numpy scikit-learn matplotlib seaborn
+3. Execute o script:
+   python main.py
+   python main.py
    
