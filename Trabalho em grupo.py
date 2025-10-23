@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 22 18:23:43 2025
-
-@author: hp
-"""
-
 # Importando bibliotecas
 import pandas as pd
 import numpy as np
@@ -17,7 +11,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # --- 1. Leitura dos dados ---
-df = pd.read_excel(r"D:\DOCUMENTOS\MESTRADO\MÓDULO 7\TRABALHO\Pauta_MT3.xlsx")
+df = pd.read_excel(r"Pauta_MT3.xlsx")
 
 # Selecionar colunas de disciplinas e estado
 disciplinas = ['121 LP', '122 MAT', '123 FIS', '126 BIO', 'EMP', 'ED.FIS', '127 QUI', '128 ING', '130 FIL', '131 GEOL']
@@ -141,3 +135,4 @@ resumo_df = df_clean.groupby('aprovado')['media_geral'].agg(['mean', 'count'])
 with pd.ExcelWriter('relatorio_resultados.xlsx') as writer:
     relatorio_df.to_excel(writer, sheet_name='Relatorio')
     resumo_df.to_excel(writer, sheet_name='Resumo')
+
