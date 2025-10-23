@@ -79,13 +79,14 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
    
    python Exame_nacional_predição.py
 
+---
 
-📚 Aplicações Educacionais
+**📚 Aplicações Educacionais**
 Este tipo de análise pode ajudar instituições de ensino a:
 - Identificar alunos em risco de reprovação precocemente
 - Implementar apoio pedagógico direcionado
 - Tomar decisões baseadas em dados
-
+---
 🙌 **Autores:** Estudante do curso de Mestrado em Ensino da Informática
 | Nome | email|
 |--------|-------------------|
