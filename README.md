@@ -50,9 +50,7 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 | Dispersão | Histograma |
 |---------|----------|
-| !<img width="671" height="425" alt="Figure 2025-10-22 145723 (0)" src="https://github.com/user-attachments/assets/43a4e593-8cbd-4a9b-9044-9935197e0fd7" />
- |(<img width="713" height="425" alt="Figure 2025-10-22 145723 (1)" src="https://github.com/user-attachments/assets/826778ab-157b-47c8-86d1-6f487c582a09" />
-) |
+| <img width="671" height="425" alt="Figure 2025-10-22 145723 (0)" src="https://github.com/user-attachments/assets/43a4e593-8cbd-4a9b-9044-9935197e0fd7" />|(<img width="713" height="425" alt="Figure 2025-10-22 145723 (1)" src="https://github.com/user-attachments/assets/826778ab-157b-47c8-86d1-6f487c582a09" />) |
 
 | Boxplot | Matriz de Confusão |
 |--------|-------------------|
