@@ -50,7 +50,8 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 | Dispersão | Histograma |
 |---------|----------|
-| ![Dispersão](figs/scatter.png) | ![Histograma](figs/histogram.png) |
+| ![Dispersão](figs/scatter.png) | ![Histograma](<img width="713" height="425" alt="Figure 2025-10-22 145723 (1)" src="https://github.com/user-attachments/assets/826778ab-157b-47c8-86d1-6f487c582a09" />
+) |
 
 | Boxplot | Matriz de Confusão |
 |--------|-------------------|
@@ -64,5 +65,5 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 1. Clone este repositório:
    ```bash
-   [git clone https://github.com/seuusuario/ciencia-dados-desempenho-escolar.git](https://github.com/tchingala18/MEIDS.git)
+   git clone https://github.com/tchingala18/MEIDS.git
    
