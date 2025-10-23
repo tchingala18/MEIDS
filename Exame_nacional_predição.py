@@ -21,7 +21,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # --- 1. Leitura dos dados ---
-df = pd.read_excel(r"Pauta_Final_Média _Final_Disc.xlsx")
+df = pd.read_excel(r"Pauta_MT3.xlsx")
 
 # Limpeza dos nomes das colunas
 df.columns = df.columns.str.strip()            # remove espaços no início/fim
@@ -151,3 +151,4 @@ with pd.ExcelWriter('relatorio_resultados.xlsx') as writer:
     resumo_df.to_excel(writer, sheet_name='Resumo')
 
 print("\n✅ Relatório guardado com sucesso em 'relatorio_resultados.xlsx'")
+
