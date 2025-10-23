@@ -88,6 +88,7 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 ---
 
 **📚 Aplicações Educacionais**
+
 Este tipo de análise pode ajudar instituições de ensino a:
 - Identificar alunos em risco de reprovação precocemente
 - Implementar apoio pedagógico direcionado
