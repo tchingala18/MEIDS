@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 23 01:19:47 2025
-
-@author: hp
-"""
 
 # Importando bibliotecas
 # ===========================================
@@ -151,4 +146,5 @@ with pd.ExcelWriter('relatorio_resultados.xlsx') as writer:
     resumo_df.to_excel(writer, sheet_name='Resumo')
 
 print("\n✅ Relatório guardado com sucesso em 'relatorio_resultados.xlsx'")
+
 
