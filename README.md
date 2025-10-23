@@ -56,9 +56,7 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 | Boxplot | Matriz de Confusão |
 |--------|-------------------|
-| !<img width="713" height="425" alt="Figure 2025-10-22 145723 (2)" src="https://github.com/user-attachments/assets/6ecf1bc2-17dd-43be-a463-2d19ab487c1a" />
- | !<img width="528" height="425" alt="Figure 2025-10-22 145723 (3)" src="https://github.com/user-attachments/assets/48f61f88-9901-42f3-a81f-4c05b75c6e94" />
- |
+| <img width="713" height="425" alt="Figure 2025-10-22 145723 (2)" src="https://github.com/user-attachments/assets/6ecf1bc2-17dd-43be-a463-2d19ab487c1a" />| <img width="528" height="425" alt="Figure 2025-10-22 145723 (3)" src="https://github.com/user-attachments/assets/48f61f88-9901-42f3-a81f-4c05b75c6e94" />|
 
 > *(Imagens ilustrativas — geradas ao executar o código)*
 
