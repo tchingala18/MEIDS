@@ -87,8 +87,8 @@ Este tipo de análise pode ajudar instituições de ensino a:
 - Implementar apoio pedagógico direcionado
 - Tomar decisões baseadas em dados
 ---
-🙌 **Autores:** Estudante do curso de Mestrado em Ensino da Informática
-| Nome | email|
+🙌 **Autores:** 
+| Nome | E-mail|
 |--------|-------------------|
 |Alberto Jamba Kanduco|242111@isced-huila.edu.ao|
 |Ana Benguela Dange Bento|m242054@isced-huila.edu.ao|
