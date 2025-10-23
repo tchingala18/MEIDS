@@ -15,9 +15,13 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 ## 📁 Estrutura do Projeto
 ├── main.py # Script principal de análise
+
 ├── PautaMT3.xlsx # Dados brutos (não versionado em produção)
+
 ├── README.md # Este arquivo
+
 └── figs/ # Pasta opcional para salvar gráficos (recomendado)
+
 > ⚠️ **Nota**: O arquivo `PautaMT3.xlsx` contém dados sensíveis (nomes, notas). Em ambientes reais, evite compartilhar dados pessoais.
 
 ## 🔍 Metodologia
