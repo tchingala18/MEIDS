@@ -64,5 +64,5 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/ciencia-dados-desempenho-escolar.git
+   [git clone https://github.com/seuusuario/ciencia-dados-desempenho-escolar.git](https://github.com/tchingala18/MEIDS.git)
    
