@@ -14,11 +14,17 @@ Prever o resultado final (Aprovado/Reprovado) de alunos com base na **média ger
 - `Jupyter Notebook` (ou script Python)
 
 ## 📁 Estrutura do Projeto
-├── main.py # Script principal de análise
+├── main.py 
 
-├── PautaMT3.xlsx # Dados brutos (não versionado em produção)
+├── Exame_nacional_predição.py
+
+├── PautaMT3.xlsx 
+
+├── Pauta_Final_Média _Final_Disc.xlsx
 
 ├── README.md # Este arquivo
+
+├── LICENSE
 
 └── figs/ # Pasta opcional para salvar gráficos (recomendado)
 
